@@ -1,0 +1,11 @@
+# Exclude raw data & checkpoints
+*.pth
+*.pt
+*.pkl
+*.zip
+*.rar
+data/
+raw_data/
+training-runs/
+__pycache__/
+.ipynb_checkpoints/
